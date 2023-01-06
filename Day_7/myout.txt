@@ -1,0 +1,339 @@
+{ / } -> {dir cvt} {4967 hcqbmwc.gts} {5512 hsbhwb.clj} {dir hvfvt} {dir phwgv} {277125 pwgswq.fld} {42131 qdzr.btl} {dir svw} {144372 vmbnlzgb.wbd} {dir zft} 
+{ cvt / } -> {dir bbgsthsd} {146042 bcqrmp.czf} {dir chhdjtlw} {dir cpcfcc} {dir dch} {dir djb} {dir djfww} {dir drdf} {dir fgbqtjlj} {dir hjsmmj} {243293 hvfvt.qtb} {245795 lrpb} {dir msptbrl} {181756 qlqqmndd.zcb} {18658 rtfzt.tjp} {dir slpc} 
+{ bbgsthsd cvt / } -> {236957 djfww.fcb} {112286 hcqbmwc.gts} {106102 qggjrzts} 
+{ chhdjtlw cvt / } -> {226927 cpcfcc} {309815 djfww} {117933 hcqbmwc.gts} {dir mbdrgfzs} {dir pbmcnpzf} {131558 pwgswq.fld} {298691 qlqqmndd.zcb} 
+{ mbdrgfzs chhdjtlw cvt / } -> {164331 hvfvt.dvq} 
+{ pbmcnpzf chhdjtlw cvt / } -> {102120 bjgg.cqd} 
+{ cpcfcc cvt / } -> {15756 ddc} {dir dqc} {dir glm} {dir jbszm} {200345 pwgswq.fld} {145508 qlqqmndd.zcb} {dir vcptbw} {dir zrtm} 
+{ dqc cpcfcc cvt / } -> {dir cpcfcc} {92063 mzp} {dir qmhnvmh} {dir snqqcjlw} {8423 zdjwr.blc} 
+{ cpcfcc dqc cpcfcc cvt / } -> {dir hvfvt} 
+{ hvfvt cpcfcc dqc cpcfcc cvt / } -> {289372 pwgswq.fld} {307397 qlqqmndd.zcb} 
+{ qmhnvmh dqc cpcfcc cvt / } -> {274778 jczjwdl.smd} {194322 ngrrfm} 
+{ snqqcjlw dqc cpcfcc cvt / } -> {182851 nprvrgd.tbb} 
+{ glm cpcfcc cvt / } -> {188702 hpq.hgm} 
+{ jbszm cpcfcc cvt / } -> {187645 pwgswq.fld} 
+{ vcptbw cpcfcc cvt / } -> {dir mgqd} 
+{ mgqd vcptbw cpcfcc cvt / } -> {157695 rhldvntj.jzm} {268696 rjnngctw} 
+{ zrtm cpcfcc cvt / } -> {218820 bcqrmp.czf} {172319 czpsl.dnf} {180114 hcqbmwc.gts} {165216 hvfvt.nnw} {dir zft} 
+{ zft zrtm cpcfcc cvt / } -> {161245 dtqjg.czv} {249888 hpq.hgm} {192037 zft} 
+{ dch cvt / } -> {dir djfww} {dir fzqgwwnf} {dir hqvmq} {dir mmcrzqc} {42136 qlqqmndd.zcb} {dir vdtlh} {dir wfltm} {271200 zrtm} 
+{ djfww dch cvt / } -> {37427 dct} {204401 hcqbmwc.gts} {283140 jmq} {dir lbrhbc} {154148 pncb.bmp} {53366 vzt.cnn} 
+{ lbrhbc djfww dch cvt / } -> {dir djfww} {153648 djfww.pps} {308911 mvtjzp.btg} {219150 ncmc} {253604 wqft.ggb} {293759 zft} 
+{ djfww lbrhbc djfww dch cvt / } -> {24794 hcqbmwc.gts} 
+{ fzqgwwnf dch cvt / } -> {233720 scdd.pwr} 
+{ hqvmq dch cvt / } -> {dir cdld} {dir cpcfcc} {dir djfww} {85564 hpq.hgm} {dir qnc} {81509 wtnl.crs} 
+{ cdld hqvmq dch cvt / } -> {293421 llpltsgn.tqb} 
+{ cpcfcc hqvmq dch cvt / } -> {230813 cglljgv} {178203 qlqqmndd.zcb} {186410 zrtm.tbt} 
+{ djfww hqvmq dch cvt / } -> {201830 zrtm} 
+{ qnc hqvmq dch cvt / } -> {305356 bdf.jrh} {dir zrtm} 
+{ zrtm qnc hqvmq dch cvt / } -> {dir bdhdrr} 
+{ bdhdrr zrtm qnc hqvmq dch cvt / } -> {dir nffdrnb} 
+{ nffdrnb bdhdrr zrtm qnc hqvmq dch cvt / } -> {301601 nbrjz} 
+{ mmcrzqc dch cvt / } -> {dir cpcfcc} {264271 hpq.hgm} {208744 tzsjrf.zdc} {274096 zft} 
+{ cpcfcc mmcrzqc dch cvt / } -> {226054 cpcfcc} 
+{ vdtlh dch cvt / } -> {84229 bzlg.crn} {58668 cpcfcc.zqw} {141409 hpq.hgm} {dir mdgst} {37090 pstsh.qwv} {40357 qlqqmndd.zcb} {dir smr} {dir sqbgcsgh} {dir trp} 
+{ mdgst vdtlh dch cvt / } -> {151033 fsmvbpsl.nqr} 
+{ smr vdtlh dch cvt / } -> {140764 cpcfcc.dpg} 
+{ sqbgcsgh vdtlh dch cvt / } -> {dir djfww} {263783 dvm} {105219 hpq.hgm} {29647 hwcgv.gvg} {162537 lwjhgh.wmt} {235511 nlw} {dir zwddrdfz} 
+{ djfww sqbgcsgh vdtlh dch cvt / } -> {260084 vcgpvpd} 
+{ zwddrdfz sqbgcsgh vdtlh dch cvt / } -> {225632 bhrzzw} {269756 cqq.vrz} 
+{ trp vdtlh dch cvt / } -> {233192 vqwngcs} 
+{ wfltm dch cvt / } -> {140990 djfww} 
+{ djb cvt / } -> {213191 cjwrs.prd} {dir dhvpqt} {dir gtgftm} {dir hvfvt} {208325 jwhp} {301446 qlqqmndd.zcb} {dir qnlbgvf} {dir tps} {dir zft} {dir zrtm} {dir zwnlm} 
+{ dhvpqt djb cvt / } -> {dir sbcj} 
+{ sbcj dhvpqt djb cvt / } -> {20611 ggt} 
+{ gtgftm djb cvt / } -> {179526 qcqbtmvq} 
+{ hvfvt djb cvt / } -> {dir djstcnrt} {dir hggpvn} {dir hvfvt} {63889 hvfvt.tjm} {265836 qlqqmndd.zcb} {105663 zft} {223582 zft.llg} {26037 zzwwg.lqh} 
+{ djstcnrt hvfvt djb cvt / } -> {201498 hcqbmwc.gts} {139156 hpq.hgm} {277342 pshgz.rtp} {dir rjb} {257294 rqrb.lhh} {dir tqnbfnt} {313308 zft.dvc} 
+{ rjb djstcnrt hvfvt djb cvt / } -> {268438 hpq.hgm} {dir hvfvt} {dir hvwpb} {161024 mzbcgqc.nvw} {137875 pwgswq.fld} {260008 pzzcww} {283261 wnvlrg.tmn} 
+{ hvfvt rjb djstcnrt hvfvt djb cvt / } -> {dir dvwqqt} {163397 hcqbmwc.gts} {265154 pwgswq.fld} {dir trsh} {dir vnf} 
+{ dvwqqt hvfvt rjb djstcnrt hvfvt djb cvt / } -> {315187 hcqbmwc.gts} 
+{ trsh hvfvt rjb djstcnrt hvfvt djb cvt / } -> {dir ssrdpg} 
+{ ssrdpg trsh hvfvt rjb djstcnrt hvfvt djb cvt / } -> {dir vjdc} 
+{ vjdc ssrdpg trsh hvfvt rjb djstcnrt hvfvt djb cvt / } -> {dir srvdrhdq} 
+{ srvdrhdq vjdc ssrdpg trsh hvfvt rjb djstcnrt hvfvt djb cvt / } -> {74145 djfww} 
+{ vnf hvfvt rjb djstcnrt hvfvt djb cvt / } -> {dir djfww} 
+{ djfww vnf hvfvt rjb djstcnrt hvfvt djb cvt / } -> {184018 pwgswq.fld} 
+{ hvwpb rjb djstcnrt hvfvt djb cvt / } -> {dir jwpjrcvs} 
+{ jwpjrcvs hvwpb rjb djstcnrt hvfvt djb cvt / } -> {dir cpcfcc} 
+{ cpcfcc jwpjrcvs hvwpb rjb djstcnrt hvfvt djb cvt / } -> {52191 sdlv} 
+{ tqnbfnt djstcnrt hvfvt djb cvt / } -> {dir djfww} {206341 fmpb.lnp} {dir fpsjg} {4589 hcqbmwc.gts} {dir hvfvt} {8796 hvfvt.hdz} {238364 tgcdpjc.fjm} {dir zrtm} {40577 zrtm.fsr} 
+{ djfww tqnbfnt djstcnrt hvfvt djb cvt / } -> {217182 djfww.rbf} 
+{ fpsjg tqnbfnt djstcnrt hvfvt djb cvt / } -> {52456 djfww} 
+{ hvfvt tqnbfnt djstcnrt hvfvt djb cvt / } -> {dir rqhzvb} {275026 szwgzm.qjd} {dir zbmtstj} 
+{ rqhzvb hvfvt tqnbfnt djstcnrt hvfvt djb cvt / } -> {8395 gcmzsd.jzf} 
+{ zbmtstj hvfvt tqnbfnt djstcnrt hvfvt djb cvt / } -> {39691 qlqqmndd.zcb} {dir qqcdss} {180676 rwl.zwr} 
+{ qqcdss zbmtstj hvfvt tqnbfnt djstcnrt hvfvt djb cvt / } -> {106297 zrtm.nsl} 
+{ zrtm tqnbfnt djstcnrt hvfvt djb cvt / } -> {153478 ldhvt} 
+{ hggpvn hvfvt djb cvt / } -> {19109 cpcfcc.fbh} {249168 fnqjc} {207420 qgzsh.pfs} {135472 qlqqmndd.zcb} 
+{ hvfvt hvfvt djb cvt / } -> {dir djfww} {213659 hcqbmwc.gts} {dir jzdwq} {204021 nvbgf} {185328 qlqqmndd.zcb} {dir zrtm} 
+{ djfww hvfvt hvfvt djb cvt / } -> {180713 rwmm.gjt} 
+{ jzdwq hvfvt hvfvt djb cvt / } -> {57424 djfww.qtm} {104960 slq.bfp} {174906 svc} 
+{ zrtm hvfvt hvfvt djb cvt / } -> {dir mrtvhht} 
+{ mrtvhht zrtm hvfvt hvfvt djb cvt / } -> {188512 djfww.fvm} 
+{ qnlbgvf djb cvt / } -> {dir fjrhtssv} {46767 jhbnml.lpq} 
+{ fjrhtssv qnlbgvf djb cvt / } -> {198664 fgcc} {245142 tsc.rsd} 
+{ tps djb cvt / } -> {dir fmlwghjv} {146731 gwch.ttr} {dir jjzmdd} {dir rtltrng} {191609 wff.mqt} 
+{ fmlwghjv tps djb cvt / } -> {189227 zrtm.vgg} 
+{ jjzmdd tps djb cvt / } -> {dir hvfvt} {178057 mpdfrrm} {49493 pwgswq.fld} {220129 sqgfb.flm} {231012 zrmsnmr} 
+{ hvfvt jjzmdd tps djb cvt / } -> {dir lbndbhc} {12602 mnclbss} {746 ppw} 
+{ lbndbhc hvfvt jjzmdd tps djb cvt / } -> {49601 cdqvs.gwc} {158670 wvjpchjg} 
+{ rtltrng tps djb cvt / } -> {dir cpgh} {115613 hvfvt} {59441 zfs} 
+{ cpgh rtltrng tps djb cvt / } -> {dir djfww} 
+{ djfww cpgh rtltrng tps djb cvt / } -> {dir tgt} 
+{ tgt djfww cpgh rtltrng tps djb cvt / } -> {dir vqwvqss} 
+{ vqwvqss tgt djfww cpgh rtltrng tps djb cvt / } -> {dir bsdrhz} 
+{ bsdrhz vqwvqss tgt djfww cpgh rtltrng tps djb cvt / } -> {dir pld} 
+{ pld bsdrhz vqwvqss tgt djfww cpgh rtltrng tps djb cvt / } -> {8543 mfs.gsb} 
+{ zft djb cvt / } -> {dir fhjgg} 
+{ fhjgg zft djb cvt / } -> {114494 pwgswq.fld} 
+{ zrtm djb cvt / } -> {201142 tlhr.rtd} {298232 wlcztszv} 
+{ zwnlm djb cvt / } -> {240023 hcqbmwc.gts} {159126 hpq.hgm} {22101 hvfvt.bfw} {dir ltzl} {dir mtfr} {dir sbw} {dir sqscdjlj} {dir ssf} 
+{ ltzl zwnlm djb cvt / } -> {260692 hpq.hgm} {204540 hvfvt} 
+{ mtfr zwnlm djb cvt / } -> {15391 pwgswq.fld} 
+{ sbw zwnlm djb cvt / } -> {293226 hcqbmwc.gts} {267478 htllcq} {176349 nlbhcf.vpn} {286577 zft.gds} 
+{ sqscdjlj zwnlm djb cvt / } -> {128776 gnh} {dir qbdpvcbt} {284505 qlsn.vdq} 
+{ qbdpvcbt sqscdjlj zwnlm djb cvt / } -> {280709 crv.hgm} 
+{ ssf zwnlm djb cvt / } -> {13328 djfww.pjn} {19971 hvfvt} {dir zft} 
+{ zft ssf zwnlm djb cvt / } -> {97761 dnmnz} 
+{ djfww cvt / } -> {109590 bwfnnf.wpd} {297297 cmht.ljg} {280726 hvfvt} 
+{ drdf cvt / } -> {56764 pwgswq.fld} {300547 wqqm} {210698 zrtm.jvq} 
+{ fgbqtjlj cvt / } -> {22217 vrmgsz.ctg} 
+{ hjsmmj cvt / } -> {232911 bcqrmp.czf} {164656 hcqbmwc.gts} {dir jql} {dir ntd} {dir prgm} {dir psfvhh} {dir zft} 
+{ jql hjsmmj cvt / } -> {212767 zhnhn.lzm} {dir zrtm} 
+{ zrtm jql hjsmmj cvt / } -> {35950 bcqrmp.czf} 
+{ ntd hjsmmj cvt / } -> {dir vml} 
+{ vml ntd hjsmmj cvt / } -> {60833 bcqrmp.czf} 
+{ prgm hjsmmj cvt / } -> {316166 pwgswq.fld} 
+{ psfvhh hjsmmj cvt / } -> {152195 pwgswq.fld} {92448 qlqqmndd.zcb} 
+{ zft hjsmmj cvt / } -> {95808 hpq.hgm} 
+{ msptbrl cvt / } -> {256069 hpq.hgm} 
+{ slpc cvt / } -> {dir djfww} {285380 djfww.gcm} {169898 hcqbmwc.gts} {40914 mnpnhpz} {188062 pwgswq.fld} {dir zrtm} 
+{ djfww slpc cvt / } -> {94935 pwgswq.fld} {70655 qlqqmndd.zcb} {48528 zft.qvh} 
+{ zrtm slpc cvt / } -> {160137 hcqbmwc.gts} 
+{ hvfvt / } -> {dir cslthslv} {129407 prwq} {dir vrzfbtt} 
+{ cslthslv hvfvt / } -> {dir cpcfcc} {158361 hcqbmwc.gts} 
+{ cpcfcc cslthslv hvfvt / } -> {dir zpgnczq} 
+{ zpgnczq cpcfcc cslthslv hvfvt / } -> {158414 zft} 
+{ vrzfbtt hvfvt / } -> {185263 nqvvl} 
+{ phwgv / } -> {253690 bzpcj.fcj} {dir wtbr} {168025 zdsh.tnq} {157840 zsdfqb.zbd} 
+{ wtbr phwgv / } -> {dir lvgdb} 
+{ lvgdb wtbr phwgv / } -> {177751 cpcfcc.dzr} 
+{ svw / } -> {dir cpcfcc} {189430 hpq.hgm} {dir ntzbj} {13384 qlqqmndd.zcb} {10333 wdvqhwgl.trq} {161318 zwzp.jsn} 
+{ cpcfcc svw / } -> {298999 hcqbmwc.gts} {290883 hpq.hgm} {dir qlnntp} {dir vpshs} {5547 wlrmg.bpc} {dir zft} 
+{ qlnntp cpcfcc svw / } -> {168562 nqds.tqn} 
+{ vpshs cpcfcc svw / } -> {246400 pwgswq.fld} 
+{ zft cpcfcc svw / } -> {235634 hvfvt.hst} 
+{ ntzbj svw / } -> {98777 qlqqmndd.zcb} 
+{ zft / } -> {dir dhnzm} {299292 hvfvt.pvb} {dir ltfb} {dir mrvsjgsq} {dir ntr} {dir swmvhgd} {dir zrtm} 
+{ dhnzm zft / } -> {267041 bbsj} 
+{ ltfb zft / } -> {242136 bcqrmp.czf} {314862 dgdz} {203160 hcqbmwc.gts} {80422 hgvz} {dir qftjfqfv} {180815 sstl.wzg} {dir wmhm} {dir zft} {dir zszp} 
+{ qftjfqfv ltfb zft / } -> {dir bmmw} 
+{ bmmw qftjfqfv ltfb zft / } -> {dir hvfvt} {318039 hvfvt.whc} {17057 pwgswq.fld} 
+{ hvfvt bmmw qftjfqfv ltfb zft / } -> {170348 brplf.wgv} {156783 hcqbmwc.gts} 
+{ wmhm ltfb zft / } -> {178474 bcqrmp.czf} {dir cmsgv} {dir dcfvrtj} {225393 htjflrs.tlm} {dir hvfvt} {dir nlrs} {273173 nsmdd.glc} {151259 pwgswq.fld} {dir ztqvwjr} 
+{ cmsgv wmhm ltfb zft / } -> {dir flgjbjg} 
+{ flgjbjg cmsgv wmhm ltfb zft / } -> {13971 cpcfcc} {20601 qlqqmndd.zcb} 
+{ dcfvrtj wmhm ltfb zft / } -> {141992 djfww.djn} {118149 hpq.hgm} {dir qrmqslq} 
+{ qrmqslq dcfvrtj wmhm ltfb zft / } -> {105940 zrtm.vql} 
+{ hvfvt wmhm ltfb zft / } -> {181962 hpq.hgm} 
+{ nlrs wmhm ltfb zft / } -> {82705 vnfwjf.hhl} 
+{ ztqvwjr wmhm ltfb zft / } -> {98257 pwgswq.fld} {83864 scv.pbp} 
+{ zft ltfb zft / } -> {183072 rsbfsl.zsj} 
+{ zszp ltfb zft / } -> {dir hvfvt} 
+{ hvfvt zszp ltfb zft / } -> {dir djfww} {dir dqdtgjtg} {dir hvfvt} 
+{ djfww hvfvt zszp ltfb zft / } -> {117037 rnmbsq.zph} {259243 zrtm.znf} 
+{ dqdtgjtg hvfvt zszp ltfb zft / } -> {dir lrbsvng} {59301 zft} 
+{ lrbsvng dqdtgjtg hvfvt zszp ltfb zft / } -> {46301 bcqrmp.czf} 
+{ hvfvt hvfvt zszp ltfb zft / } -> {223277 qlqqmndd.zcb} 
+{ mrvsjgsq zft / } -> {160189 cpcfcc} {dir lzqf} {232626 pwgswq.fld} {dir rpmfcg} 
+{ lzqf mrvsjgsq zft / } -> {135552 bcqrmp.czf} {48083 qlqqmndd.zcb} {dir rbg} {229086 rdswb.cjz} {204486 spbwfrwf.cmj} 
+{ rbg lzqf mrvsjgsq zft / } -> {dir sjdwsbqq} 
+{ sjdwsbqq rbg lzqf mrvsjgsq zft / } -> {270621 rhv.shw} 
+{ rpmfcg mrvsjgsq zft / } -> {227216 bld.jtn} {dir zft} 
+{ zft rpmfcg mrvsjgsq zft / } -> {43056 vzc} 
+{ ntr zft / } -> {dir cmtnqb} {dir djfww} {195371 wffvmql.lrv} 
+{ cmtnqb ntr zft / } -> {135380 pbng.vhq} 
+{ djfww ntr zft / } -> {dir fmvrrrq} {dir mbhrbss} {dir zrtm} 
+{ fmvrrrq djfww ntr zft / } -> {dir cpcfcc} {79110 djfww} {300581 ftcdj.wcc} 
+{ cpcfcc fmvrrrq djfww ntr zft / } -> {234211 zsgsm} 
+{ mbhrbss djfww ntr zft / } -> {149184 djfww.gwh} {185815 rhgw.rmj} 
+{ zrtm djfww ntr zft / } -> {dir zft} 
+{ zft zrtm djfww ntr zft / } -> {310043 bnwvt.fbg} 
+{ swmvhgd zft / } -> {77547 djfww.jwr} {318547 drggg} {300962 pwgswq.fld} 
+{ zrtm zft / } -> {229319 bflnffjj} {dir djfww} {142526 hvfvt} {232722 jprrf} {94024 ndmf.hdr} {dir vhdhn} 
+{ djfww zrtm zft / } -> {30770 bcqrmp.czf} 
+{ vhdhn zrtm zft / } -> {dir djfww} {48261 djfww.frg} {dir gqc} {316163 qlqqmndd.zcb} 
+{ djfww vhdhn zrtm zft / } -> {104095 cvjlthn.cfl} {223454 hgqwzh} {24715 pwgswq.fld} {283499 qlqqmndd.zcb} {dir zft} {224574 zlnwn} 
+{ zft djfww vhdhn zrtm zft / } -> {100941 pwgswq.fld} 
+{ gqc vhdhn zrtm zft / } -> {156273 wpgwrdl} 
+size of {/  } = 46728267
+size of {cvt /  } = 32283214
+size of {bbgsthsd cvt /  } = 455345
+size of {chhdjtlw cvt /  } = 1351375
+size of {mbdrgfzs chhdjtlw cvt /  } = 164331
+size of {pbmcnpzf chhdjtlw cvt /  } = 102120
+size of {cpcfcc cvt /  } = 3853192
+size of {dqc cpcfcc cvt /  } = 1349206
+size of {cpcfcc dqc cpcfcc cvt /  } = 596769
+size of {hvfvt cpcfcc dqc cpcfcc cvt /  } = 596769
+size of {qmhnvmh dqc cpcfcc cvt /  } = 469100
+size of {snqqcjlw dqc cpcfcc cvt /  } = 182851
+size of {glm cpcfcc cvt /  } = 188702
+size of {jbszm cpcfcc cvt /  } = 187645
+size of {vcptbw cpcfcc cvt /  } = 426391
+size of {mgqd vcptbw cpcfcc cvt /  } = 426391
+size of {zrtm cpcfcc cvt /  } = 1339639
+size of {zft zrtm cpcfcc cvt /  } = 603170
+size of {dch cvt /  } = 7951177
+size of {djfww dch cvt /  } = 1986348
+size of {lbrhbc djfww dch cvt /  } = 1253866
+size of {djfww lbrhbc djfww dch cvt /  } = 24794
+size of {fzqgwwnf dch cvt /  } = 233720
+size of {hqvmq dch cvt /  } = 1864707
+size of {cdld hqvmq dch cvt /  } = 293421
+size of {cpcfcc hqvmq dch cvt /  } = 595426
+size of {djfww hqvmq dch cvt /  } = 201830
+size of {qnc hqvmq dch cvt /  } = 606957
+size of {zrtm qnc hqvmq dch cvt /  } = 301601
+size of {bdhdrr zrtm qnc hqvmq dch cvt /  } = 301601
+size of {nffdrnb bdhdrr zrtm qnc hqvmq dch cvt /  } = 301601
+size of {mmcrzqc dch cvt /  } = 973165
+size of {cpcfcc mmcrzqc dch cvt /  } = 226054
+size of {vdtlh dch cvt /  } = 2438911
+size of {mdgst vdtlh dch cvt /  } = 151033
+size of {smr vdtlh dch cvt /  } = 140764
+size of {sqbgcsgh vdtlh dch cvt /  } = 1552169
+size of {djfww sqbgcsgh vdtlh dch cvt /  } = 260084
+size of {zwddrdfz sqbgcsgh vdtlh dch cvt /  } = 495388
+size of {trp vdtlh dch cvt /  } = 233192
+size of {wfltm dch cvt /  } = 140990
+size of {djb cvt /  } = 13880430
+size of {dhvpqt djb cvt /  } = 20611
+size of {sbcj dhvpqt djb cvt /  } = 20611
+size of {gtgftm djb cvt /  } = 179526
+size of {hvfvt djb cvt /  } = 7490863
+size of {djstcnrt hvfvt djb cvt /  } = 4885164
+size of {rjb djstcnrt hvfvt djb cvt /  } = 2164698
+size of {hvfvt rjb djstcnrt hvfvt djb cvt /  } = 1001901
+size of {dvwqqt hvfvt rjb djstcnrt hvfvt djb cvt /  } = 315187
+size of {trsh hvfvt rjb djstcnrt hvfvt djb cvt /  } = 74145
+size of {ssrdpg trsh hvfvt rjb djstcnrt hvfvt djb cvt /  } = 74145
+size of {vjdc ssrdpg trsh hvfvt rjb djstcnrt hvfvt djb cvt /  } = 74145
+size of {srvdrhdq vjdc ssrdpg trsh hvfvt rjb djstcnrt hvfvt djb cvt /  } = 74145
+size of {vnf hvfvt rjb djstcnrt hvfvt djb cvt /  } = 184018
+size of {djfww vnf hvfvt rjb djstcnrt hvfvt djb cvt /  } = 184018
+size of {hvwpb rjb djstcnrt hvfvt djb cvt /  } = 52191
+size of {jwpjrcvs hvwpb rjb djstcnrt hvfvt djb cvt /  } = 52191
+size of {cpcfcc jwpjrcvs hvwpb rjb djstcnrt hvfvt djb cvt /  } = 52191
+size of {tqnbfnt djstcnrt hvfvt djb cvt /  } = 1531868
+size of {djfww tqnbfnt djstcnrt hvfvt djb cvt /  } = 217182
+size of {fpsjg tqnbfnt djstcnrt hvfvt djb cvt /  } = 52456
+size of {hvfvt tqnbfnt djstcnrt hvfvt djb cvt /  } = 610085
+size of {rqhzvb hvfvt tqnbfnt djstcnrt hvfvt djb cvt /  } = 8395
+size of {zbmtstj hvfvt tqnbfnt djstcnrt hvfvt djb cvt /  } = 326664
+size of {qqcdss zbmtstj hvfvt tqnbfnt djstcnrt hvfvt djb cvt /  } = 106297
+size of {zrtm tqnbfnt djstcnrt hvfvt djb cvt /  } = 153478
+size of {hggpvn hvfvt djb cvt /  } = 611169
+size of {hvfvt hvfvt djb cvt /  } = 1309523
+size of {djfww hvfvt hvfvt djb cvt /  } = 180713
+size of {jzdwq hvfvt hvfvt djb cvt /  } = 337290
+size of {zrtm hvfvt hvfvt djb cvt /  } = 188512
+size of {mrtvhht zrtm hvfvt hvfvt djb cvt /  } = 188512
+size of {qnlbgvf djb cvt /  } = 490573
+size of {fjrhtssv qnlbgvf djb cvt /  } = 443806
+size of {tps djb cvt /  } = 1611474
+size of {fmlwghjv tps djb cvt /  } = 189227
+size of {jjzmdd tps djb cvt /  } = 900310
+size of {hvfvt jjzmdd tps djb cvt /  } = 221619
+size of {lbndbhc hvfvt jjzmdd tps djb cvt /  } = 208271
+size of {rtltrng tps djb cvt /  } = 183597
+size of {cpgh rtltrng tps djb cvt /  } = 8543
+size of {djfww cpgh rtltrng tps djb cvt /  } = 8543
+size of {tgt djfww cpgh rtltrng tps djb cvt /  } = 8543
+size of {vqwvqss tgt djfww cpgh rtltrng tps djb cvt /  } = 8543
+size of {bsdrhz vqwvqss tgt djfww cpgh rtltrng tps djb cvt /  } = 8543
+size of {pld bsdrhz vqwvqss tgt djfww cpgh rtltrng tps djb cvt /  } = 8543
+size of {zft djb cvt /  } = 114494
+size of {fhjgg zft djb cvt /  } = 114494
+size of {zrtm djb cvt /  } = 499374
+size of {zwnlm djb cvt /  } = 2750553
+size of {ltzl zwnlm djb cvt /  } = 465232
+size of {mtfr zwnlm djb cvt /  } = 15391
+size of {sbw zwnlm djb cvt /  } = 1023630
+size of {sqscdjlj zwnlm djb cvt /  } = 693990
+size of {qbdpvcbt sqscdjlj zwnlm djb cvt /  } = 280709
+size of {ssf zwnlm djb cvt /  } = 131060
+size of {zft ssf zwnlm djb cvt /  } = 97761
+size of {djfww cvt /  } = 687613
+size of {drdf cvt /  } = 568009
+size of {fgbqtjlj cvt /  } = 22217
+size of {hjsmmj cvt /  } = 1363734
+size of {jql hjsmmj cvt /  } = 248717
+size of {zrtm jql hjsmmj cvt /  } = 35950
+size of {ntd hjsmmj cvt /  } = 60833
+size of {vml ntd hjsmmj cvt /  } = 60833
+size of {prgm hjsmmj cvt /  } = 316166
+size of {psfvhh hjsmmj cvt /  } = 244643
+size of {zft hjsmmj cvt /  } = 95808
+size of {msptbrl cvt /  } = 256069
+size of {slpc cvt /  } = 1058509
+size of {djfww slpc cvt /  } = 214118
+size of {zrtm slpc cvt /  } = 160137
+size of {hvfvt /  } = 631445
+size of {cslthslv hvfvt /  } = 316775
+size of {cpcfcc cslthslv hvfvt /  } = 158414
+size of {zpgnczq cpcfcc cslthslv hvfvt /  } = 158414
+size of {vrzfbtt hvfvt /  } = 185263
+size of {phwgv /  } = 757306
+size of {wtbr phwgv /  } = 177751
+size of {lvgdb wtbr phwgv /  } = 177751
+size of {svw /  } = 1719267
+size of {cpcfcc svw /  } = 1246025
+size of {qlnntp cpcfcc svw /  } = 168562
+size of {vpshs cpcfcc svw /  } = 246400
+size of {zft cpcfcc svw /  } = 235634
+size of {ntzbj svw /  } = 98777
+size of {zft /  } = 10862928
+size of {dhnzm zft /  } = 267041
+size of {ltfb zft /  } = 4247593
+size of {qftjfqfv ltfb zft /  } = 662227
+size of {bmmw qftjfqfv ltfb zft /  } = 662227
+size of {hvfvt bmmw qftjfqfv ltfb zft /  } = 327131
+size of {wmhm ltfb zft /  } = 1675740
+size of {cmsgv wmhm ltfb zft /  } = 34572
+size of {flgjbjg cmsgv wmhm ltfb zft /  } = 34572
+size of {dcfvrtj wmhm ltfb zft /  } = 366081
+size of {qrmqslq dcfvrtj wmhm ltfb zft /  } = 105940
+size of {hvfvt wmhm ltfb zft /  } = 181962
+size of {nlrs wmhm ltfb zft /  } = 82705
+size of {ztqvwjr wmhm ltfb zft /  } = 182121
+size of {zft ltfb zft /  } = 183072
+size of {zszp ltfb zft /  } = 705159
+size of {hvfvt zszp ltfb zft /  } = 705159
+size of {djfww hvfvt zszp ltfb zft /  } = 376280
+size of {dqdtgjtg hvfvt zszp ltfb zft /  } = 105602
+size of {lrbsvng dqdtgjtg hvfvt zszp ltfb zft /  } = 46301
+size of {hvfvt hvfvt zszp ltfb zft /  } = 223277
+size of {mrvsjgsq zft /  } = 1550915
+size of {lzqf mrvsjgsq zft /  } = 887828
+size of {rbg lzqf mrvsjgsq zft /  } = 270621
+size of {sjdwsbqq rbg lzqf mrvsjgsq zft /  } = 270621
+size of {rpmfcg mrvsjgsq zft /  } = 270272
+size of {zft rpmfcg mrvsjgsq zft /  } = 43056
+size of {ntr zft /  } = 1589695
+size of {cmtnqb ntr zft /  } = 135380
+size of {djfww ntr zft /  } = 1258944
+size of {fmvrrrq djfww ntr zft /  } = 613902
+size of {cpcfcc fmvrrrq djfww ntr zft /  } = 234211
+size of {mbhrbss djfww ntr zft /  } = 334999
+size of {zrtm djfww ntr zft /  } = 310043
+size of {zft zrtm djfww ntr zft /  } = 310043
+size of {swmvhgd zft /  } = 697056
+size of {zrtm zft /  } = 2211336
+size of {djfww zrtm zft /  } = 30770
+size of {vhdhn zrtm zft /  } = 1481975
+size of {djfww vhdhn zrtm zft /  } = 961278
+size of {zft djfww vhdhn zrtm zft /  } = 100941
+size of {gqc vhdhn zrtm zft /  } = 156273
+1390824
